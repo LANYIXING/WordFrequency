@@ -22,8 +22,8 @@ def stopWordsList():
     return stopwords
 
 def solve():
-    path = "C:/Users/63505/Desktop/文本数据/文本数据/2017/"
-    year = "2017/"
+    path = "C:/Users/63505/Desktop/文本数据/文本数据/2016/"
+    year = "2016/"
     dirs = os.listdir(path)
     import jieba
 

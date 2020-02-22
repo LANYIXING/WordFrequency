@@ -12,9 +12,9 @@ import fnmatch
 import win32com.client
 
 # PATH = os.path.abspath(os.path.dirname('C:\Users\63505\Desktop\文本数据\文本数据')
-PATH_DATA = os.path.abspath(r'C:\Users\63505\Desktop\文本数据\文本数据\2016')
-# str = '*.docx'
-str = '*.doc'
+PATH_DATA = os.path.abspath(r'C:\Users\63505\Desktop\文本数据\文本数据\2017')
+str = '*.docx'
+# str = '*.doc'
 if str == '*.docx':
     length = 4
 else:

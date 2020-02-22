@@ -1,7 +1,1558 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6463d7f-496d-4942-82d4-a5f61a5c5915" name="Default Changelist" comment="" />
+    <list default="true" id="f6463d7f-496d-4942-82d4-a5f61a5c5915" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1517/A广东省人大_市场_监管部门.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/A辽宁省人大_企业_行政.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/B天津市政府_市场主体_信用信息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C上海人行上海总部_通知书_银行.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C上海市工商行政管理局、国税局、地税局、人力资源和社会保障局、统计局_营业执照_登记.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C中国银监会甘肃监管局_机构_任职.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C云南省工业和信息化委员会_发展_产业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C云南省政府办_数据_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C云南省昆明市政府办_旅游_查处.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C内蒙古包头市政府_市场_执法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C内蒙古自治区人民政府_市场_执法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C内蒙古自治区人民政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C内蒙古自治区工商局1_权限_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C内蒙古自治区工商局_异常_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C内蒙古鄂尔多斯市政府_监管_公示.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C内蒙通辽市人民政府_市场_执法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C北京市平谷区政府_房屋_住所.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C北京市石景山区人民政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C北京市通州区人民政府办公室_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C吉林白山市政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C吉林省人力资源和社会保障厅_劳动_保障.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C吉林省人民政府办公厅_监管_执法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C吉林省四平市政府_企业_创业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C吉林省工业和信息化厅_生产_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C吉林省工商行政管理局_网络_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C吉林省政府办公厅_信用_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C吉林省长春市政府办_市场主体_信用信息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C吉林辽源市政府_市场主体_信用信息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C吉林通化市政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C四川内江市政府_民间投资_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C四川成都城乡建设委员会、质量技术监督局_检测_质量.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C四川成都市政府1_市场_执法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C四川成都市政府2_消费_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C四川成都市政府_民间投资_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C四川泸州市政府_监管_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C四川泸州政府_监管_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C四川省人力资源和社会保障厅_人力资源_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C四川省巴中市政府_经济_民间投资.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C四川省广元市政府_经济_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C四川省政府1_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C四川省政府_民间投资_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C四川自贡市政府_推进_执法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C天津市政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C天津市政府办_监管_行政.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C天津政府办_监管_行政.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C宁夏回族自治区人民政府办公厅_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C安徽宣城政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C安徽省淮北市政府办_企业_登记.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C安徽芜湖政府办1_数据_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C安徽芜湖政府办_数据_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C安徽蚌埠市政府_民间投资_管委会.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C安徽阜阳市政府1_监管_行政.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C安徽阜阳市政府_监管_行政.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山东东营市政府办_企业_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山东东营市政府办_经营场所_住所.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山东淄博市住房和城乡建设局、公安局、国土资源局、规划局 、城市管理和行政执法局、房产管理局_开发_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山东淄博市政府_创业_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山东淄博市政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山东淄博文化广电新闻出版局_文化_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山东滨州市政府_民间投资_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山东潍坊市住房和城乡建设局_考核_录入.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山东烟台文化广电新闻出版局_文化_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山东省东营市文广局_文化_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山东省人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山东省住房和城乡建设厅 财政厅 金融工作办公室 中国人民银行济南分行 中国银行业监督管理委员会 监管局 工商行政管理局_房地产_非法集资.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山东省住房和城乡建设厅_平台_一体化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山东省政府办公厅_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山东菏泽政府办_考核_规范.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山东青岛市府办_市场_商品.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山东青岛市政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山西大同市人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山西朔州市政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山西朔州政府办_企业_登记.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山西省人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山西省商务厅_行业_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山西省政府办_数据_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C山西省阳泉市政府办_数据_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C广东河源市政府_政府_行政.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C广东深圳市市场和质量监管委_补贴_资金.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C广东省人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C广东省惠州市政府办_数据_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C广东省政府办公厅1_监管_条例.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C广东省政府办公厅_数据_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C广东韶关政府_企业_园区.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C广州深圳市市场监督管理局_广告_广告法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C广西住房和城乡建设厅_平台_信息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C广西壮族自治区人民政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C广西壮族自治区工商局_小微企业_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C广西壮族自治区工商行政管理局办_告知_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C广西壮族自治区水利厅_信用_档案.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C新疆乌鲁木齐市工商行政管理局1_网络_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C新疆乌鲁木齐市工商行政管理局_旅游_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江苏南通政府_住所_经营场所.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江苏南通政府办_信息_平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江苏宿迁政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江苏徐州市政府办_执法_标志.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江苏无锡政府办_信用_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江苏淮安市政府_监管_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江苏省人力资源和社会保障厅_人力资源_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江苏省工商局_登记_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江苏省政府_住所_经营场所.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江苏省政府_投资_资本.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江苏省政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江苏省淮安市政府办1_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江苏省淮安市政府办_信息_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江苏苏州市政府办_整治_旅游.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江苏苏州政府办_信息_平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江西上饶政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江西南昌市政府_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江西省九江市政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江西省住房和城乡建设厅_帐户_查询.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江西省工商局_网络_经营.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江西省工商行政管理局_随机_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江西省政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江西省政府法制办 工商局 质监局 食品药品监管局_执法_文书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C江西省新余市人民政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河北保定市政府1_房地产_违法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河北保定市政府_企业_房地产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河北廊坊政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河北承德政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河北省人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河北省住房和城乡建设厅_企业_建筑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河北省石家庄市政府办_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河北衡水市政府办1_投资_支持.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河北衡水市政府办_企业_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河北衡水市政府办_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河南商丘政府_资本_鼓励.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河南新乡市政府_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河南焦作市政府办_民间投资_政策.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河南焦作政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河南省人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河南省安阳市政府办1_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河南省安阳市政府办_民间投资_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河南省工商行政管理局_网络_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河南省政府办_政府_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C河南省洛阳工商行政管理局_网络_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C浙江宁波市政府_仲裁_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C浙江杭州市住房保障和房产管理局 城乡建设委员会 市场监督管理局 物价局_房地产_销售.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C浙江湖州市政府办_仲裁_制度.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C浙江省住房和城乡建设厅_信息_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C海南省人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C海南省政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C湖北武汉市工商局_登记_商事.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C湖北武汉市政府_流通_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C湖北省政府_发展_民间投资.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C湖北省政府办_公平竞争_审查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C湖北省政府办_数据_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C湖北省荆门市政府办_企业_民营企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C湖北荆州政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C湖南省商事制度改革领导小组_抽查_随机.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C湖南省政府办_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C湖南省水利厅_黑名单_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C湖南省食品药品监督管理局_农产品_食用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C甘肃兰州市人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C甘肃嘉峪关市政府_市场_推进.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C甘肃天水市政府_建设_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C甘肃天水市政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C甘肃白银市政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C甘肃省人民政府办公厅_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C甘肃省天水市政府_流通_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C甘肃省金昌市_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C甘肃省金昌市政府办公室_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C甘肃酒泉政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C福建南平市人民政府办公室_协调_统一.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C福建省厦门市农业局_审批_事项.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C福建省厦门市政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C福建省厦门市文化广电新闻出版局_文化_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C福建省龙岩市政府_龙岩_管委会.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C福建莆田政府办_旅游_投诉.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C贵州省发展和改革委员会_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C贵州省工商局_企业_公示.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C贵州省房地产管理局_平台_一体化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C贵州省贵阳市文化新闻出版广电局_抽查_文化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C贵州省贵阳市文广局_平台_文化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C辽宁大连政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C辽宁抚顺政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C辽宁沈阳市人民政府办公厅_旅游_生产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C辽宁沈阳市委市政府_发展_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C辽宁沈阳市政府_建设_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C辽宁省人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C辽宁省住房和城乡建设厅_平台_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C辽宁省工商行政管理局_网络_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C辽宁省朝阳市政府_监管_职责.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C辽宁省沈阳市政府办_市政府_政策.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C辽宁锦州政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C重庆市府办_数据_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C重庆市政府办_数据_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C重庆市政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C陕西省人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C陕西省政府办_信用_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C陕西省食品药品监督管理局_食用_农产品.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C陕西西安市城乡建设委员会_企业_信息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C青海海东市政府办_农产品_食用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C青海省人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C青海省农牧厅、食品药品监督管理局_畜禽_产品.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C青海省工商行政管理局_个体_工商户.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C青海省政府_民间投资_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C黑龙江哈尔滨市_抽查_随机.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C黑龙江哈尔滨市人民政府办公厅_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C黑龙江省住房和城乡建设厅_信息_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C黑龙江省工商行政管理局1_法治_教育.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C黑龙江省工商行政管理局2_网络_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/C黑龙江省工商行政管理局_抽查_随机.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/D内蒙古自治区高级人民法院_管理_人民法院.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/D北京市高级人民法院_清算_人民法院.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/D广东佛山市中级人民法院_执行_破产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/D广东省高级人民法院_执行_法院.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/D江苏省高级人民法院1_执行_破产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/D江苏省高级人民法院_破产_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/D浙江省高级人民法院2_管理_中介机构.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/D重庆市第五中级人民法院_管理_破产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E上海市住房和城乡建设管理委员会  上海市规划和国土资源管理局_住房_房地产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E上海市工商行政管理局_商品_商标.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E上海市政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E上海市水务局_赋分_评价.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E云南省政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E云南省政府办_责任_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E内蒙古包头市政府_流通_内贸.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E内蒙古包头政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E内蒙古自治区农牧业厅  自治区食品药品监督管理局 自治区公安厅_私屠滥_整治.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E内蒙古自治区政府_流通_内贸.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E内蒙古通辽市政府_流通_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E北京市工商行政管理局_网络_违法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E北京市工商行政管理局、北京市发展和改革委员会_企业_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E北京市政府_公平竞争_审查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E合肥市旅游局_旅游_旅行社.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E吉林省人民政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E吉林省吉林市政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E吉林省安全生产监督管理局_名录_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E吉林省工商行政管理局_打击_假冒.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E吉林省工商行政管理局_法治宣传_活动.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E吉林省政府_流通_内贸.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E吉林省松原市水利厅_许可_名录.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E吉林省辽源市人民政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E四川德阳市府办_审批_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E四川省工商行政管理局_法治_普法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E四川省政府_流通_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E四川自贡政府办_公开_随机.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E天津市商务委  市财政局  市市场监管委  市金融局  市国税局  天津海关  天津检验检疫局_企业_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E天津市商务委、天津市财政局、天津市市场监管委_企业_物流.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E宁夏回族自治区政府_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E宁夏政府办_流通_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E安徽合肥旅游局_旅游_旅行社.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E安徽省住房和城乡建设厅_建筑_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E安徽省安庆市政府办_数据_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E安徽省政府办_信用_信息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E安徽省淮南市工商行政管理局_工商_教育.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E山东省文化厅_文化_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E山东菏泽政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E山西省政府_流通_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E广东佛山政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E广东湛江政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E广东省工商行政管理局1_条例_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E广东省工商行政管理局_监管_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E广东省广州市住房和城乡建设委员会 国土资源和规划委员会 发展和改革委员会 工商行政管理局_房地产_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E广东省政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E广东省文化厅_文化_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E广东省文化厅_文化_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E广西壮族自治区人民政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E广西壮族自治区政府1_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E广西壮族自治区政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E广西壮族自治区文化厅_文化_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E广西桂林市人民政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E广西桂林市园林局_旅游_公园.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E广西桂林旅游发展委员会_旅游_整治.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E新疆乌鲁木齐市工商行政管理局1_网络_网站.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E新疆乌鲁木齐市工商行政管理局_网络_平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E新疆生产建设兵团_兵团_流通.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E新疆维吾尔自治区政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E新疆维吾尔自治区政府办_数据_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E江苏南通市政府办1_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E江苏南通市政府办_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E江苏盐城市政府_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E江苏省工商行政管理局1_信息_平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E江苏省工商行政管理局2_平台_信息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E江苏省工商行政管理局_信息_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E江苏省政府1_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E江苏省政府_流通_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E江苏苏州市人民政府办_联席会议_平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E江西内江市政府办_市场主体_认定.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E江西省工商局_网络_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E江西省工商行政管理局1_企业_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E江西省工商行政管理局_工商_教育.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E江西省政府办_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E江西鹰潭市府办_执法_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E河北省政府_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E河北省政府_流通_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E河北省邯郸市政府办_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E河北石家庄市政府_流通_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E河北邢台政府办_监管_清单.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E河南开封市住房和城乡建设局_建筑_平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E河南新乡政府办_数据_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E河南洛阳政府办_发展_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E河南省政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E河南省政府办_发展_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E河南省许昌市政府办_数据_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E河南省郑州市政府办_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E河南省驻马店市政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E河南郑州市政府办_发展_人民政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E浙江省工商局_网络_网店.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E浙江省政府_公平竞争_审查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E海南三亚市政府_旅游_热线.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E海南省住房和城乡建设厅_信息_平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E湖北十堰市政府_行政_十堰.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E湖北省住房和城乡建设厅_房地产_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E湖北省政府1_公平竞争_审查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E湖北省政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E湖北省水利厅_信用_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E湖北荆州政府办_信息_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E湖南省政府办1_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E湖南省政府办_民间投资_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E湖南邵阳市政府办_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E甘肃兰州市政府_数据_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E甘肃省政府_流通_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E甘肃省政府办_数据_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E福建三明政府办_数据_政务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E福建厦门市市政园林局_市政_厦门市.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E福建厦门市政府_审批_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E福建厦门市文化广电新闻出版局_文化_旅游.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E福建省人民政府办_监管_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E福建省办公厅_旅游_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E福建省南平市政府办_市场准入_制度.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E福建省厦门市政府_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E福建省厦门市政府办_市场_执法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E福建省政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E福建省政府办_市场准入_制度.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E福建省政府办_数据_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E福建省文化厅 福建省工商行政管理局_文化_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E福建省福州市政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E福建省福州市政府办_数据_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E福建省经济和信息化委员会、质量技术监督局、工商行政管理局、住房和城乡建设厅_生产_违法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E福建省龙岩市政府办_旅游_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E福建福州市政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E福建莆田市政府办_经营_整治.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E西藏自治区住房和城乡建设厅_信息_平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E贵州省政府办1_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E贵州省政府办_政府_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E贵州省水利厅_信用信息_水利建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E贵州省贵阳市政府办_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E辽宁大连政府办_信用_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E辽宁沈阳市政府_整治_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E辽宁盘锦市政府_监管_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E辽宁盘锦市政府办_整治_出租汽车.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E辽宁省大连市政府办_监管_职责.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E辽宁省政府_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E辽宁省政府办_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E辽宁省政府办_监管_职责.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E辽宁省朝阳市政府办_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E辽宁省环保厅_审批_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E辽宁省盘锦市政府办_监管_时限.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E辽宁省葫芦岛政府办_监管_职责.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E辽宁鞍山市政府_行政_执法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E重庆市政府_流通_内贸.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E重庆石柱土家族自治县政府_流通_内贸.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E陕西省政府1_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E陕西省政府_流通_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E陕西西安市政府办_旅游_整治.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E青岛市政府办_责任_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E青海海东市政府_民间投资_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E青海省人民政府办_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E青海省工商局1_网络_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E青海省工商局_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E青海省政府_流通_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E青海省海北州政府办_数据_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E青海省黄南州政府办_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E青海西宁市人民政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E黑龙江七台河市政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E黑龙江佳木斯市政府办_旅游_查处.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E黑龙江双鸭市政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E黑龙江牡丹江市政府办_旅游_查处.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E黑龙江省住房和城乡建设厅_房地产_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E黑龙江省办公厅_旅游_查处.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E黑龙江省工商行政管理局1_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E黑龙江省工商行政管理局2_网络_交易平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E黑龙江省工商行政管理局_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E黑龙江省工商行政管理局、省委宣传部、省委网络安全和信息化领导小组办公室、公安厅物价监督管理局、通信管理局、卫生和计划生育委员会、新闻出版广电局_广告_违法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E黑龙江省政府1_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E黑龙江省政府_流通_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E黑龙江省文化厅_文化_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E黑龙江省鸡西市政府办_旅游_查处.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E黑龙江省鹤岗市政府办_旅游_查处.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1517/E黑龙江黑河市政府办_旅游_查处.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/A吉林省人民代表大会常务委员会_市场主体_人民政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/A天津市人大常委会_市场主体_人民政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/A山西省人大_人民政府_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/A广东省人民代表大会常务委员会_企业_营商环境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/A辽宁省人民代表大会常务委员会1_企业_依法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/A辽宁省人民代表大会常务委员会_企业_营商环境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/A辽宁省辽阳市人大_营商环境_优化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/A辽宁省阜新市人大_行政_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/A陕西省人民代表大会常务委员_市场主体_行政.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/A黑龙江省人大(含常委会)_人民政府_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/B安徽省政府_人民政府_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/B广西壮族自治区人民政府_信息_公示.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/B浙江温州市政府_市场主体_依法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/B陕西省人民政府办公厅_企业_办理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/B黑龙江省政府_营商环境_人民政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C上海市人民政府_抽查_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C上海市金融服务办公室 中国人民银行上海分行 中国银行业监督管理委员会上海监管局_金融_信贷.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C上海市食品药品监督管理局_许可_食品.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C上海市黄浦区人民政府_企业_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C中共云南省委办公厅、云南省人民政府办公厅_企业_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C中共广东省委办公厅、广东省人民政府办公厅_审批_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C中共广西壮族自治区委员会、广西壮族自治区人民政府_企业_营商环境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C中共江西省委、江西省人民政府_企业家_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C中共重庆市委、重庆市人民政府_民营_经济.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C中国银保监会浙江监管局办公室_监管_浙江.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C云南中共德宏州委办公室、德宏州人民政府办公室_企业_人民政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C云南昆明市委_企业_改革.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C云南曲靖市人民政府办公室_公开_网上.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C云南省人民政府办公厅_抽查_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C云南省楚雄州人民政府办公室_市场主体_信用信息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C云南贺州市人民政府办公室_投诉_举报.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C云南迪庆藏族自治州人民政府办公室_公开_网上.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C内蒙古包头市政府办_事项_改革.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C内蒙古自治区人民政府_抽查_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C内蒙古自治区市场监管局_经营_名录.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C北京市人民政府办公厅_改革_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C北京市延庆区人民政府办公室_经营_延庆.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C北京市昌平区人民政府1_公平竞争_审查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C北京市昌平区人民政府_年底_政务服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C北京市水务局_评价_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C北京市海淀区人民政府_企业_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C北京市通州区人民政府_公平竞争_审查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C北京市金融工作局、中国人民银行营业管理部、中国银行业监督管理委员会北京监管局_金融_信贷.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C吉林省工商行政管理局_监管_强化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C吉林省白山市人民政府办_修正_中华人民共和国.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C四川成都市人民政府_监管_抽查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C四川成都市人民政府办公厅_企业_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C四川省人民政府_抽查_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C四川省人民政府办公厅_企业_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C四川自贡市人民代表大会常务委员会_营商环境_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C四川自贡市人民政府办公室_企业_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C天津市人民政府_监管_公开.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C天津市金融局、人民银行天津分行、天津银监局_信贷_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C宁夏回族自治区人民政府办公厅_企业_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C宁夏回族自治区财政厅_采购_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C宁夏银川市住房和城乡建设局_房地产_开发.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C宁夏银川市市场监督管理局_监管_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C安徽合肥市人民政府_监管_抽查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C安徽合肥市人民政府办公室_企业_政策.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C安徽合肥市政府_审批_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C安徽合肥市环境保护局_审查_经营者.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C安徽宣城市人民政府办_职能_分工负责.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C安徽巢湖市政府_审批_职能.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C安徽淮南市人民政府办公室_企业_落实.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C安徽淮南市市场监督管理局_普法_宪法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C安徽省人民政府_监管_抽查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C安徽省人民政府办公厅_营商环境_推进.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C安徽省淮南市人民政府办_推进_营商环境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C安徽芜湖市政府_企业_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C安徽蚌埠市人民政府办公室_企业_落实.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C安徽蚌埠市政府1_审批_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C安徽蚌埠市政府_审批_时限.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C安徽阜阳市人民政府办_营商环境_事项.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C安徽阜阳市政府办_抽查_执法检查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C山东日照市人民政府_监管_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C山东济南市人民政府办公厅_职责_分工负责.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C山东烟台市人民政府办公室_审批_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C山东省人民政府_抽查_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C山东省人民政府办公厅1_政务服务_统一.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C山东省人民政府办公厅_改革_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C山东菏泽市人民政府办公室_改革_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C山东青岛市人民政府办_政务服务_市政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C广东佛山市政府_企业_登记.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C广东深圳市市场监督管理局_专家_知识产权.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C广东深圳市文体旅游局_文化_经营.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C广东省人民政府_监管_随机.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C广东省广州市财政局_采购_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C广东省深圳市人民政府办公厅_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C广东省深圳市人民政府法制办公室_深圳市_办公.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C广东省深圳市政府_企业_人才.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C广东省珠海市人民政府办公室_商事_登记.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C广西中共梧州市委员会、梧州市人民政府_企业_梧州.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C广西壮族自治区人民政府_监管_随机.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C广西壮族自治区人民政府办公厅_市场主体_信息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C广西壮族自治区住房和城乡建设厅_黑名单_建筑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C广西壮族自治区商务厅_商务厅_市场准入.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C广西防城港市人民政府_投诉_com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C新疆生产建设兵团办公厅1_市场准入_负面清单.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C新疆生产建设兵团办公厅_兵团_各师市.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C新疆生产建设兵团发展改革委、商务局_市场准入_清单.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C新疆维吾尔自治区人民政府办公厅_职责_分工负责.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C新疆维吾尔自治区政府_人民政府_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C江苏省中共无锡市委办公室_企业_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C江苏省南京市人民政府办公厅_信息_平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C江苏省工商局_登记_警示.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C江苏省市场监管局_企业_疫情.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C江苏省徐州市卫生和计划生育委员会_公平竞争_审查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C江苏省徐州市安全生产监督管理局_严禁_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C江苏省扬州市政府办_推进_营商环境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C江苏省政府_监管_公开.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C江苏省政府办公厅_信息_平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C江苏省苏州市政府办公室_企业_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C江西省水利厅_评价_评分.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C河北省人民政府_监管_抽查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C河北省人民政府办公厅_企业_改革.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C河北省住房和城乡建设厅_黑名单_建筑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C河北省张家口市人民政府_企业_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C河北石家庄市人民政府办公厅_审批_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C河北石家庄市人民政府办公室_事项_行政.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C河北邯郸市人民政府_房地产_销售.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C河北邯郸市人民政府办_市场_集贸市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C河北邯郸市人民政府办公厅_企业_事项.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C河南开封市人民政府_市场准入_改革.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C河南洛阳市人民政府办公室_企业_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C河南省人民政府_监管_抽查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C河南省人民政府办公厅_企业_改革.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C河南省人民政府办公厅_企业_民营企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C河南省周口市人民政府办公室_责任_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C河南省开封市人民政府_旅游_综合.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C河南省开封市人民政府办公室_考评_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C河南省濮阳市人民政府_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C河南驻马店市人民政府办公室_企业_发改委.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C浙江中共丽水市委办公室、丽水市人民政府办公室_责任_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C浙江中共杭州市委、杭州市人民政府_企业_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C浙江台州市政府办_企业_投资.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C浙江温州市人民政府办公室_涉批_中介服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C浙江省人民政府1_监管_抽查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C浙江省人民政府_监管_抽查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C浙江省工商行政管理局_违法_失信.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C浙江省市场监督管理局_抽查_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C浙江省林业厅_评价_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C海南海口市人民代表大会常务委员会_人民政府_营商环境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C湖北十堰市政府办_联席会议_组长.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C湖北恩施州人民政府办公室_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C湖北武汉市市场监管局_市场_抽查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C湖北省人民政府_抽查_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C湖北省咸宁市政府_企业_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C湖北省宜昌市政府_宜昌_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C湖北省恩施州人民政府办公室_责任_各县市.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C湖北省政府_企业_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C湖北省武汉市政府_企业_人民政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C湖北省襄阳市政府_企业_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C湖南湘西自治州人民政府_湘西_人民政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C湖南省人民政府办公厅_市场_监管部门.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C湖南长沙市工商行政管理局_登记_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C甘肃兰州市人民政府办公厅_企业_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C甘肃省人民政府_抽查_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C甘肃省人民政府办公厅_建设_办理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C福建厦门市人民政府办公厅_责任_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C福建省厦门市人民政府办_涉旅_旅游.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C福建省厦门市市场监督管理局_商事_主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C福建省工商局_企业_失信.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C福建省市场监督管理局1_监管_随机.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C福建省市场监督管理局_监管_药品.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C福建省福州市文化广电新闻出版局_贯彻落实_十三.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C福建省福州市经济和信息化委员会_信用_失信.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C西藏拉萨市人民政府_信用_信息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C西藏拉萨市人民政府办公室_审批_改革.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C贵州省发展和改革委员会_市场主体_服务业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C贵州铜仁市人民政府_企业_民间投资.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C贵州黔南州人民政府办_行政_执法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C贵州黔西南州人民政府办公室_审批_行政.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C辽宁沈阳市人民政府_时限_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C辽宁省阜阳市人民政府办_治理_办公室.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C辽宁营口市政府_审批_改革.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C辽宁营口市政府办_投诉_事项.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C重庆市人民政府_审批_市场准入.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C重庆市水利局办公室_招标_水利建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C金华市人民代表大会常务委员会_营商环境_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C陕西咸阳市人民政府办公室_政府_县市区.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C陕西安康市人民政府办公室_政府_推进.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C陕西榆林市人民政府办_榆林_推进.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C陕西省人民政府_企业_登记.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C陕西省人民政府_抽查_联合.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C陕西省公安厅_企业_消防.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C陕西省宝鸡市人民政府_企业_登记.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C陕西省西安市人民政府_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C陕西西安市人民政府_行政_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C青海省人民政府_抽查_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C青海省大通回族土族自治县人民政府_企业_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C黑龙江佳木斯市人民政府办公室_市场准入_负面清单.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C黑龙江大庆市人民政府办公室_市场准入_负面清单.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C黑龙江省住房和城乡建设厅_管理_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C黑龙江鸡西市人民政府_企业_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/C黑龙江齐齐哈尔市营商环境建设监督局_疫情_防控.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D上海市崇明区人民法院_被告_原告.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D上海市第三中级人民法院（上海知识产权法院、上海铁路运输中级法院）_司法_审判.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D上海市金山区人民法院_营造_司法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D上海市高级人民法院1_案件_破产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D上海市高级人民法院_破产_司法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D上海知识产权法院_上海_有限公司.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D中共浙江省委全面深化改革委员会办公室、浙江省高级人民法院、浙江省发展和改革委员会、浙江省公安厅、浙江省财政厅、浙江省人力资源和社会保障厅、浙江省自然资源厅_破产_浙江省.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D中国人民银行杭州中心支行、杭州市中级人民法院_管理_破产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D中国银行保险监督管理委员会浙江监管局、浙江省高级人民法院、浙江省发展和改革委员会、浙江省经济和信息化厅、浙江省财政厅、浙江省住房和城乡建设厅、浙江省水利厅_保险_保证金.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D云南省高级人民法院_破产_人民法院.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D北京一中院破产庭_破产_管理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D北京市第一中级人民法院_重整_管理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D北京市高级人民法院1_拍卖_财产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D北京市高级人民法院_案件_破产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D北京市高级人民法院_破产_案件.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D四川省乐山市中级人民法院_破产_审理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D四川省成都高新区人民法院_破产_程序.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D四川省高级人民法院_破产_债务人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D天津市高级人民法院1_管理_指定.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D天津市高级人民法院2_案件_破产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D天津市高级人民法院_依法_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D天津市高级人民法院_管理_案件.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D山东省住房城乡建设厅、山东省发改委、山东省自然资源厅、山东省市场监管局等部门_信用信息_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D山东省高级人民法院1_债务人_破产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D山东省高级人民法院_写明_当事人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D山东青岛市中级人民法院_司法_案件.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D山东高级人民法院_重整_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D广东广州市中级人民法院_执行_破产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D广东汕头市中级人民法院_执行_破产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D广东深圳市中级人民法院1_管理_破产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D广东深圳市中级人民法院_执行_破产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D广东省广州市中级人民法院_民营企业_依法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D广东省深圳市中级人民法院_破产_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D广东省高级人民法院_保全_财产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D广州市中级人民法院1_破产_管理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D广西壮族自治区高级人民法院_破产_审判.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D江苏省高级人民法院_执行_破产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D江苏省高级人民法院_破产_重整.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D河南省高级人民法院_重整_债务人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D浙江省高级人民法院1_破产_案件.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D浙江省高级人民法院_企业_破产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D深圳市中级人民法院_依法_完善.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/D青岛市财政局  青岛市中级人民法院_破产_资金.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E 西安市发展和改革委员会、西安市工业和信息化局、西安市住房和城乡建设局、西安市水务局、西安市交通运输局_整治_招标.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E上海市司法局_法律_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E上海市金山区人民政府_行政_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E上海市长宁区市场监督管理局_企业_许可.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E中共上海市委全面依法治市委员会办公室_民营企业_依法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E中共北京市委、北京市人民政府_企业_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E中共河南省委办公厅、河南省人民政府办公厅_企业_营商环境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E中共海南省委办公厅、海南省人民政府办公厅_企业_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E中共福建省委办公厅、福建省人民政府办公厅_企业_完善.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E中共黑龙江省人民政府法制办公室党组_行政_解决.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E中共黑龙江省委办公厅_整顿_营商环境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E云南保山市人民政府办_平台_联席会议.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E云南大理白族自治州人民政府办公室_监管_随机.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E云南大理白族自治州人民政府办公室_资金_公开.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E云南怒江州人民政府办公室_公开_网上.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E云南怒江州人民政府办公室_监管_抽查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E云南昭通市人民政府办公室_公开_网上.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E云南玉溪市人民政府_审批_政务服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E云南省人民政府办公厅1_营商环境_评价.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E云南省人民政府办公厅_投诉_举报.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E云南省人民政府办公厅_改革_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E云南省保山市人民政府办公室1_监管_改革.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E云南省保山市人民政府办公室_平台_联席会议.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E云南省大理白族自治州人民政府办_监管_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E云南省红河州人民政府_企业_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E云南红河州人民政府办公室_公开_网上.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E云南西双版纳州人民政府_企业_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E北京市人民政府办公厅_监管_抽查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E北京市发展和改革委员会等八部门_北京市_公共资源.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E北京市工商行政管理局等十三部门_网络_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E北京市市场监督管理局_事项_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E吉林省人民政府办公厅_监管_抽查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E吉林省松原市人民政府办_整改_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E四川省人民政府办公厅_改革_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E四川绵阳市人大常委会_营商环境_优化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E天津市住房和城乡建设委员会_整治_招标.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E天津市财政局_采购_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E安徽宿州市人民政府办公室_责任_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E安徽淮南市人民政府办公室_分工负责_职责.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E安徽淮南市创优“四最”营商环境工作领导小组_排查_整治.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E安徽淮南市创优“四最”营商环境工作领导小组办公室_排查_整治.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E安徽淮南市工商行政管理局 中国银监会淮南监管分局 淮南市质量技术监督局_监管_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E安徽淮南市工商行政管理局1_清理_整治.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E安徽淮南市工商行政管理局2_营商环境_优化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E安徽淮南市工商行政管理局3_完善_公示.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E安徽淮南市工商行政管理局_企业_活动.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E安徽省人民政府办公厅_职责_分工负责.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E山东东营市人民政府办_评价_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E山东德州市人民政府办_数据_共享.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E山东德州市人民政府办公室_各县_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E山东济南市人民政府_监管_抽查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E山东济南市人民政府办公厅_配合_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E山东淄博市人民政府办_评价_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E山东滨州市人民政府办公室_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E山东省人民政府办公厅_省政府_月底.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E山东省司法厅_法律_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E山东省市场监管局_山东省_行政.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E山东省泰安市人民政府办公室_旅游_整治.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E山东青岛市人民政府办公厅_市政府_职责.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E山东青岛市人民政府办公厅_评价_营商环境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E山西晋城市工商行政管理局_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E山西省人民政府_监管_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E山西省人民政府办公厅_审批_改革.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E广东省人民政府办公厅_企业_改革.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E广东省发展改革委 广东省工商局_数据_标准.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E广东省深圳市住房和建设局_整治_招标.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E广西南宁市人民政府办公厅_企业_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E广西壮族自治区人民政府办公厅_优化_营商环境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E广西壮族自治区人民政府办公厅_增速_督查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E广西壮族自治区商务厅_商务_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E广西壮族自治区工商局_企业_商标.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E广西壮族自治区工商行政管理局办公室_调研_工商局.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E广西桂林市人民政府办公室_增速_指标.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E广西桂林粮食局_抽查_随机.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E广西省桂林市旅游发展委员会1_旅游_市场秩序.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E广西省桂林市旅游发展委员会_旅游_整治.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E广西贺州市人民政府办公室_月底_12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E新疆吐鲁番市政府办_方案_吐鲁番市.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E新疆维吾尔自治区人民政府_抽查_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E江苏 宿迁市人大(含常委会)_营商环境_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E江苏中共南京市委、南京市人民政府_企业_时限.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E江苏常州市人民代表大会常务委员会_营商环境_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E江苏徐州市人力资源和社会保障局_企业_创业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E江苏省住房和城乡建设厅_一体化_平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E江苏省政府办公厅1_企业_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E江苏省政府办公厅_职责_分工负责.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E江西省人民政府办公厅_企业_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E江西省工商局1_网络_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E江西省工商局_普法_工商.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E江西省工商行政管理局_评估_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E江西省市场监督管理局_民营企业_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E江西省市场监管局_生产_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E江西省水利厅1_赋分_评价.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E河北唐山市住房和城乡建设局1_建筑_整治.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E河北唐山市住房和城乡建设局_整治_建筑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E河北省住房和城乡建设厅_建筑_整治.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E河北省卫生计生委办公室_卫生_处室.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E河北石家庄市人民政府_监管_抽查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E河南开封市人民政府办_企业_营商环境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E河南开封市人民政府办公室1_营商环境_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E河南开封市人民政府办公室_评估_营商环境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E河南漯河市人民政府办公室_破产_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E河南省漯河市人民政府办公室_漯河市_59.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E河南省驻马店市人民政府办_发展_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E浙江宁波保税区管理委员会办公室_网络_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E浙江宁波市司法局_服务_法律.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E浙江宁波市市场监督管理局_执法_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E浙江湖州市人民政府_企业_机制.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E浙江省发展改革委、浙江省商务厅_许可_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E浙江省宁波市人民政府_公平竞争_审查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E浙江省杭州市人民政府办公厅1_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E浙江省杭州市人民政府办公厅_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E浙江省温州市政府办_涉批_中介服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E海南省人民政府办公厅_责任_时限.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E湖北中共长沙市市场监督管理局党组_责任_推进.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E湖北恩施州优化营商环境工作领导小组_营商环境_优化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E湖北省住房和城乡建设厅办公室_信息_工程项目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E湖北省国土资源厅办公室1_整改_登记.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E湖北省国土资源厅办公室_整改_登记.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E湖北省武汉市人民政府办公厅_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E湖北省黄冈市人民政府办公室_企业_黄冈.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E湖北省黄石市人民政府_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E湖南省人民政府_监管_抽查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E湖南长沙市人民政府办公厅_营商环境_优化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E湖南长沙市市场监督管理局_广告_户外广告.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E甘肃省人民政府办公厅_企业_改革.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E甘肃省商务厅_执法_整治.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E福建厦门市发展和改革委员会 厦门市商务局_负面清单_市场准入.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E福建省人民政府_监管_抽查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E福建省人民政府办公厅_企业_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E福建省住房和城乡建设厅、福建省委宣传部、福建省公安厅、福建省司法厅、国家税务总局福建省税务局、福建省工商局、福建省物价局、中国银行业监督管理委员会福建监管局_房地产_治理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E福建省工商局_督查_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E福建省工商行政管理局1_联席会议_处处长.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E福建省工商行政管理局_监管_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E福建省市场监督管理局_抽查_公开.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E福建省福州市人民政府_推进_福州.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E西宁市人民政府办公室_企业_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E贵州省人民政府办公厅_办理_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E贵州省人民政府办公厅_审批_改革.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E贵州省工商局1_整治_营商环境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E贵州省工商局2_正当竞争_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E贵州省工商局_市场_分局.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E辽宁大连市人民政府办公厅_进度_推进.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E辽宁沈阳市人民政府_整治_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E辽宁沈阳市人民政府_整治_领导小组.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E辽宁沈阳市市场监督管理局_教育_法治宣传.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E辽宁沈阳政府办_整治_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E辽宁省丹东市政府办_企业_房地产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E辽宁省人民政府_市场监管_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E辽宁省司法厅_企业_营商环境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E辽宁锦州市人民政府办_审批_行政许可.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E重庆市人民政府_抽查_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E重庆市人民政府办公厅1_企业_年底.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E重庆市人民政府办公厅_市政府_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E重庆市住房和城乡建设委员会_房地产_违法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西安康市人民政府_企业_办理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西宝鸡市人民政府办公室1_企业_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西宝鸡市人民政府办公室_政府_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西宝鸡市政府_企业_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西榆林市政府办_企业_办理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西省人民政府办公厅1_企业_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西省人民政府办公厅1_企业_破产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西省人民政府办公厅2_政府_推进.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西省人民政府办公厅_企业_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西省人民政府办公厅_政策_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西省住房和城乡建设厅_建筑_整治.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西省咸阳市人民政府办公室_政策_中介服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西省咸阳市政府办_企业_办理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西省国土资源厅_处室_登记.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西省榆林市人民政府办_企业_营商环境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西省铜川市人民政府办公_企业_办理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西西安市人民政府_监管_随机.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西西安市农业林业委员会_方案_西安市.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西西安市物价局_价格_收费.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E陕西西安市食药监_审批_行政.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E青海省人民政府办公厅_企业_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E青海省人民政府办公厅印_经济_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E青海西宁市人民政府_监管_抽查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E青海西宁市人民政府办公室_企业_政策.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E黑龙江中共哈尔滨市委办公厅_整顿_优化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E黑龙江中共哈尔滨市委办公厅_群众_作风.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E黑龙江省人民政府_抽查_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E黑龙江省人民政府办公厅_各市地_职责.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E黑龙江省司法厅办公室_会议_机关.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E黑龙江省安全监管局  深化机关作风整顿领导小组办公室_服务_整治.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E黑龙江省工商行政管理局1_旅游_整治.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E黑龙江省工商行政管理局2_案件_正当竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E黑龙江省工商行政管理局_案件_正当竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E黑龙江省物价监督管理局_价格_旅游.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E黑龙江省环境保护厅_优化_放管服.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E黑龙江鹤岗市人民政府办公室_测评_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E黑龙江鹤岗市政府办_旅游_景区.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E黑龙江齐齐哈尔市人民政府办公室1_事项_准营.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E黑龙江齐齐哈尔市人民政府办公室2_事项_准营.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E黑龙江齐齐哈尔市人民政府办公室_监管_市场准入.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E黑龙江齐齐哈尔市人民政府办公室_职责_分工负责.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1820/E黑龙江齐齐哈尔市环保局_服务_优化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/B天津市政府_市场主体_信用信息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C上海人行上海总部_通知书_银行.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C云南省政府办_数据_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C内蒙古自治区人民政府_市场_执法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C内蒙通辽市人民政府_市场_执法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C北京市平谷区政府_房屋_住所.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C吉林省人民政府办公厅_监管_执法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C天津市政府办_监管_行政.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C天津政府办_监管_行政.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C山东东营市政府办_经营场所_住所.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C山东淄博市住房和城乡建设局、公安局、国土资源局、规划局 、城市管理和行政执法局、房产管理局_开发_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C山东淄博市政府_创业_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C山东省住房和城乡建设厅_平台_一体化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C山东菏泽政府办_考核_规范.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C山东青岛市府办_市场_商品.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C山西朔州政府办_企业_登记.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C山西省政府办_数据_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C广东深圳市市场和质量监管委_补贴_资金.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C广东韶关政府_企业_园区.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C广州深圳市市场监督管理局_广告_广告法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C广西住房和城乡建设厅_平台_信息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C江苏南通政府_住所_经营场所.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C江苏无锡政府办_信用_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C江苏淮安市政府_监管_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C江苏省政府_住所_经营场所.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C河北衡水市政府办_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C河南省政府办_政府_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C浙江宁波市政府_仲裁_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C浙江湖州市政府办_仲裁_制度.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C湖北省政府办_数据_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C湖南省政府办_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C甘肃嘉峪关市政府_市场_推进.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C甘肃天水市政府_建设_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C辽宁省住房和城乡建设厅_平台_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C重庆市府办_数据_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C重庆市政府办_数据_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C陕西省政府办_信用_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C陕西省食品药品监督管理局_食用_农产品.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C陕西西安市城乡建设委员会_企业_信息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C青海省农牧厅、食品药品监督管理局_畜禽_产品.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/C青海省工商行政管理局_个体_工商户.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/D内蒙古自治区高级人民法院_管理_人民法院.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E云南省政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E云南省政府办_责任_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E吉林省工商行政管理局_法治宣传_活动.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E四川德阳市府办_审批_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E天津市商务委  市财政局  市市场监管委  市金融局  市国税局  天津海关  天津检验检疫局_企业_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E天津市商务委、天津市财政局、天津市市场监管委_企业_物流.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E安徽省政府办_信用_信息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E广东省文化厅_文化_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E广西桂林市园林局_旅游_公园.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E广西桂林旅游发展委员会_旅游_整治.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E江西内江市政府办_市场主体_认定.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E江西鹰潭市府办_执法_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E河北省政府_流通_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E河南开封市住房和城乡建设局_建筑_平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E湖北十堰市政府_行政_十堰.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E甘肃省政府_流通_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E甘肃省政府办_数据_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E福建省政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E福建省政府办_数据_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E福建省文化厅 福建省工商行政管理局_文化_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E福建省经济和信息化委员会、质量技术监督局、工商行政管理局、住房和城乡建设厅_生产_违法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E福建莆田市政府办_经营_整治.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E辽宁盘锦市政府_监管_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E辽宁省政府办_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E辽宁省环保厅_审批_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E重庆市政府_流通_内贸.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E重庆石柱土家族自治县政府_流通_内贸.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2015/E青岛市政府办_责任_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/A广东省人大_市场_监管部门.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/A辽宁省人大_企业_行政.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C上海市工商行政管理局、国税局、地税局、人力资源和社会保障局、统计局_营业执照_登记.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C中国银监会甘肃监管局_机构_任职.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C云南省工业和信息化委员会_发展_产业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C云南省昆明市政府办_旅游_查处.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C内蒙古包头市政府_市场_执法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C内蒙古自治区人民政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C内蒙古自治区工商局1_权限_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C内蒙古自治区工商局_异常_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C内蒙古鄂尔多斯市政府_监管_公示.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C北京市石景山区人民政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C北京市通州区人民政府办公室_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C吉林白山市政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C吉林省人力资源和社会保障厅_劳动_保障.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C吉林省四平市政府_企业_创业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C吉林省工业和信息化厅_生产_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C吉林省工商行政管理局_网络_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C吉林省政府办公厅_信用_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C吉林省长春市政府办_市场主体_信用信息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C吉林辽源市政府_市场主体_信用信息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C吉林通化市政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C四川内江市政府_民间投资_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C四川成都城乡建设委员会、质量技术监督局_检测_质量.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C四川成都市政府1_市场_执法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C四川成都市政府2_消费_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C四川成都市政府_民间投资_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C四川泸州市政府_监管_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C四川泸州政府_监管_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C四川省人力资源和社会保障厅_人力资源_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C四川省巴中市政府_经济_民间投资.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C四川省广元市政府_经济_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C四川省政府1_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C四川省政府_民间投资_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C四川自贡市政府_推进_执法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C天津市政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C宁夏回族自治区人民政府办公厅_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C安徽宣城政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C安徽省淮北市政府办_企业_登记.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C安徽芜湖政府办1_数据_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C安徽芜湖政府办_数据_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C安徽蚌埠市政府_民间投资_管委会.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C安徽阜阳市政府1_监管_行政.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C安徽阜阳市政府_监管_行政.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C山东东营市政府办_企业_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C山东淄博市政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C山东淄博文化广电新闻出版局_文化_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C山东滨州市政府_民间投资_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C山东潍坊市住房和城乡建设局_考核_录入.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C山东烟台文化广电新闻出版局_文化_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C山东省东营市文广局_文化_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C山东省人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C山东省住房和城乡建设厅 财政厅 金融工作办公室 中国人民银行济南分行 中国银行业监督管理委员会 监管局 工商行政管理局_房地产_非法集资.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C山东省政府办公厅_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C山东青岛市政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C山西大同市人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C山西朔州市政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C山西省人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C山西省商务厅_行业_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C山西省阳泉市政府办_数据_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C广东河源市政府_政府_行政.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C广东省人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C广东省惠州市政府办_数据_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C广东省政府办公厅1_监管_条例.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C广东省政府办公厅_数据_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C广西壮族自治区人民政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C广西壮族自治区工商局_小微企业_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C广西壮族自治区工商行政管理局办_告知_审批.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C广西壮族自治区水利厅_信用_档案.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C新疆乌鲁木齐市工商行政管理局1_网络_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C新疆乌鲁木齐市工商行政管理局_旅游_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江苏南通政府办_信息_平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江苏宿迁政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江苏徐州市政府办_执法_标志.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江苏省人力资源和社会保障厅_人力资源_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江苏省工商局_登记_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江苏省政府_投资_资本.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江苏省政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江苏省淮安市政府办1_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江苏省淮安市政府办_信息_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江苏苏州市政府办_整治_旅游.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江苏苏州政府办_信息_平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江西上饶政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江西南昌市政府_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江西省九江市政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江西省住房和城乡建设厅_帐户_查询.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江西省工商局_网络_经营.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江西省工商行政管理局_随机_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江西省政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江西省政府法制办 工商局 质监局 食品药品监管局_执法_文书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C江西省新余市人民政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C河北保定市政府1_房地产_违法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C河北保定市政府_企业_房地产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C河北廊坊政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C河北承德政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C河北省人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C河北省住房和城乡建设厅_企业_建筑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C河北省石家庄市政府办_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C河北衡水市政府办1_投资_支持.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C河北衡水市政府办_企业_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C河南商丘政府_资本_鼓励.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C河南新乡市政府_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C河南焦作市政府办_民间投资_政策.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C河南焦作政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C河南省人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C河南省安阳市政府办1_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C河南省安阳市政府办_民间投资_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C河南省工商行政管理局_网络_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C河南省洛阳工商行政管理局_网络_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C浙江杭州市住房保障和房产管理局 城乡建设委员会 市场监督管理局 物价局_房地产_销售.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C浙江省住房和城乡建设厅_信息_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C海南省人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C海南省政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C湖北武汉市工商局_登记_商事.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C湖北武汉市政府_流通_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C湖北省政府_发展_民间投资.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C湖北省政府办_公平竞争_审查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C湖北省荆门市政府办_企业_民营企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C湖北荆州政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C湖南省商事制度改革领导小组_抽查_随机.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C湖南省水利厅_黑名单_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C湖南省食品药品监督管理局_农产品_食用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C甘肃兰州市人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C甘肃天水市政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C甘肃白银市政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C甘肃省人民政府办公厅_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C甘肃省天水市政府_流通_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C甘肃省金昌市_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C甘肃省金昌市政府办公室_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C甘肃酒泉政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C福建南平市人民政府办公室_协调_统一.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C福建省厦门市农业局_审批_事项.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C福建省厦门市政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C福建省厦门市文化广电新闻出版局_文化_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C福建省龙岩市政府_龙岩_管委会.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C福建莆田政府办_旅游_投诉.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C贵州省发展和改革委员会_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C贵州省工商局_企业_公示.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C贵州省房地产管理局_平台_一体化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C贵州省贵阳市文化新闻出版广电局_抽查_文化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C贵州省贵阳市文广局_平台_文化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C辽宁大连政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C辽宁抚顺政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C辽宁沈阳市人民政府办公厅_旅游_生产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C辽宁沈阳市委市政府_发展_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C辽宁沈阳市政府_建设_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C辽宁省人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C辽宁省工商行政管理局_网络_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C辽宁省朝阳市政府_监管_职责.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C辽宁省沈阳市政府办_市政府_政策.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C辽宁锦州政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C重庆市政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C陕西省人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C青海海东市政府办_农产品_食用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C青海省人民政府办公厅_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C青海省政府_民间投资_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C黑龙江哈尔滨市_抽查_随机.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C黑龙江哈尔滨市人民政府办公厅_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C黑龙江省住房和城乡建设厅_信息_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C黑龙江省工商行政管理局1_法治_教育.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C黑龙江省工商行政管理局2_网络_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/C黑龙江省工商行政管理局_抽查_随机.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/D北京市高级人民法院_清算_人民法院.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/D广东佛山市中级人民法院_执行_破产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/D广东省高级人民法院_执行_法院.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/D江苏省高级人民法院1_执行_破产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/D江苏省高级人民法院_破产_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/D浙江省高级人民法院2_管理_中介机构.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/D重庆市第五中级人民法院_管理_破产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E上海市住房和城乡建设管理委员会  上海市规划和国土资源管理局_住房_房地产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E上海市工商行政管理局_商品_商标.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E上海市政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E上海市水务局_赋分_评价.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E内蒙古包头市政府_流通_内贸.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E内蒙古包头政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E内蒙古自治区农牧业厅  自治区食品药品监督管理局 自治区公安厅_私屠滥_整治.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E内蒙古自治区政府_流通_内贸.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E内蒙古通辽市政府_流通_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E北京市工商行政管理局_网络_违法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E北京市工商行政管理局、北京市发展和改革委员会_企业_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E北京市政府_公平竞争_审查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E合肥市旅游局_旅游_旅行社.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E吉林省人民政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E吉林省吉林市政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E吉林省安全生产监督管理局_名录_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E吉林省工商行政管理局_打击_假冒.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E吉林省政府_流通_内贸.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E吉林省松原市水利厅_许可_名录.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E吉林省辽源市人民政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E四川省工商行政管理局_法治_普法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E四川省政府_流通_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E四川自贡政府办_公开_随机.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E宁夏回族自治区政府_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E宁夏政府办_流通_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E安徽合肥旅游局_旅游_旅行社.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E安徽省住房和城乡建设厅_建筑_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E安徽省安庆市政府办_数据_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E安徽省淮南市工商行政管理局_工商_教育.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E山东省文化厅_文化_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E山东菏泽政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E山西省政府_流通_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E广东佛山政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E广东湛江政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E广东省工商行政管理局1_条例_市场监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E广东省工商行政管理局_监管_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E广东省广州市住房和城乡建设委员会 国土资源和规划委员会 发展和改革委员会 工商行政管理局_房地产_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E广东省政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E广东省文化厅_文化_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E广西壮族自治区人民政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E广西壮族自治区政府1_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E广西壮族自治区政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E广西壮族自治区文化厅_文化_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E广西桂林市人民政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E新疆乌鲁木齐市工商行政管理局1_网络_网站.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E新疆乌鲁木齐市工商行政管理局_网络_平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E新疆生产建设兵团_兵团_流通.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E新疆维吾尔自治区政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E新疆维吾尔自治区政府办_数据_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E江苏南通市政府办1_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E江苏南通市政府办_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E江苏盐城市政府_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E江苏省工商行政管理局1_信息_平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E江苏省工商行政管理局2_平台_信息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E江苏省工商行政管理局_信息_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E江苏省政府1_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E江苏省政府_流通_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E江苏苏州市人民政府办_联席会议_平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E江西省工商局_网络_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E江西省工商行政管理局1_企业_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E江西省工商行政管理局_工商_教育.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E江西省政府办_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E河北省政府_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E河北省邯郸市政府办_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E河北石家庄市政府_流通_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E河北邢台政府办_监管_清单.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E河南新乡政府办_数据_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E河南洛阳政府办_发展_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E河南省政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E河南省政府办_发展_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E河南省许昌市政府办_数据_政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E河南省郑州市政府办_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E河南省驻马店市政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E河南郑州市政府办_发展_人民政府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E浙江省工商局_网络_网店.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E浙江省政府_公平竞争_审查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E海南三亚市政府_旅游_热线.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E海南省住房和城乡建设厅_信息_平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E湖北省住房和城乡建设厅_房地产_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E湖北省政府1_公平竞争_审查.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E湖北省政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E湖北省水利厅_信用_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E湖北荆州政府办_信息_市场主体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E湖南省政府办1_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E湖南省政府办_民间投资_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E湖南邵阳市政府办_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E甘肃兰州市政府_数据_信用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E福建三明政府办_数据_政务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E福建厦门市市政园林局_市政_厦门市.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E福建厦门市政府_审批_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E福建厦门市文化广电新闻出版局_文化_旅游.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E福建省人民政府办_监管_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E福建省办公厅_旅游_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E福建省南平市政府办_市场准入_制度.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E福建省厦门市政府_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E福建省厦门市政府办_市场_执法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E福建省政府办_市场准入_制度.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E福建省福州市政府_流通_建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E福建省福州市政府办_数据_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E福建省龙岩市政府办_旅游_责任.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E福建福州市政府办_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E西藏自治区住房和城乡建设厅_信息_平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E贵州省政府办1_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E贵州省政府办_政府_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E贵州省水利厅_信用信息_水利建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E贵州省贵阳市政府办_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E辽宁大连政府办_信用_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E辽宁沈阳市政府_整治_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E辽宁盘锦市政府办_整治_出租汽车.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E辽宁省大连市政府办_监管_职责.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E辽宁省政府_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E辽宁省政府办_监管_职责.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E辽宁省朝阳市政府办_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E辽宁省盘锦市政府办_监管_时限.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E辽宁省葫芦岛政府办_监管_职责.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E辽宁鞍山市政府_行政_执法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E陕西省政府1_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E陕西省政府_流通_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E陕西西安市政府办_旅游_整治.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E青海海东市政府_民间投资_发展.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E青海省人民政府办_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E青海省工商局1_网络_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E青海省工商局_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E青海省政府_流通_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E青海省海北州政府办_数据_服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E青海省黄南州政府办_信用_数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E青海西宁市人民政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E黑龙江七台河市政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E黑龙江佳木斯市政府办_旅游_查处.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E黑龙江双鸭市政府办_旅游_监管.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E黑龙江牡丹江市政府办_旅游_查处.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E黑龙江省住房和城乡建设厅_房地产_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E黑龙江省办公厅_旅游_查处.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E黑龙江省工商行政管理局1_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E黑龙江省工商行政管理局2_网络_交易平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E黑龙江省工商行政管理局_旅游_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E黑龙江省工商行政管理局、省委宣传部、省委网络安全和信息化领导小组办公室、公安厅物价监督管理局、通信管理局、卫生和计划生育委员会、新闻出版广电局_广告_违法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E黑龙江省政府1_审查_公平竞争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E黑龙江省政府_流通_企业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E黑龙江省文化厅_文化_市场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E黑龙江省鸡西市政府办_旅游_查处.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E黑龙江省鹤岗市政府办_旅游_查处.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/E黑龙江黑河市政府办_旅游_查处.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/EGG-INFO/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/EGG-INFO/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/EGG-INFO/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/EGG-INFO/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/EGG-INFO/not-zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/EGG-INFO/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/build_env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/cli/autocompletion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/cli/base_command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/cli/cmdoptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/cli/main_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/cli/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/cli/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/completion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/freeze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/hash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/uninstall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/locations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/models/candidate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/models/format_control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/models/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/models/link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/operations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/operations/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/operations/freeze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/operations/prepare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/pep425tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/pyproject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/req/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/req/constructors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/req/req_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/req/req_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/req/req_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/req/req_tracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/req/req_uninstall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/resolve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/deprecation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/encoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/filesystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/glibc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/hashes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/outdated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/packaging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/setuptools_build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/temp_dir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/vcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/vcs/bazaar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/vcs/git.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/vcs/mercurial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/vcs/subversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/adapter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/caches/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/caches/file_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/filewrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/heuristics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/serialize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/certifi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/certifi/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/certifi/cacert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/certifi/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/big5freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/big5prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/chardistribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/charsetgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/charsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/cli/chardetect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/codingstatemachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/cp949prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/enums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/escprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/escsm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/eucjpprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/euckrfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/euckrprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/euctwfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/euctwprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/gb2312freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/gb2312prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/hebrewprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/jisfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/jpcntx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/langbulgarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/langcyrillicmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/langgreekmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/langhebrewmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/langhungarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/langthaimodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/langturkishmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/latin1prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/mbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/mbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/mbcssm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/sbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/sbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/sjisprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/universaldetector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/utf8prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/colorama/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/colorama/ansi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/colorama/ansitowin32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/colorama/initialise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/colorama/win32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/colorama/winterm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/_backport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/_backport/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/_backport/shutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/_backport/sysconfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/_backport/tarfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/manifest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/metadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/resources.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/t32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/t64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/w32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/w64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/_ihatexml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/_inputstream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/_tokenizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/_trie/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/_trie/_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/_trie/datrie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/_trie/py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/filters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/filters/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/filters/inject_meta_charset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/filters/lint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/filters/optionaltags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/filters/sanitizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/filters/whitespace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/html5parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treeadapters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treeadapters/genshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treeadapters/sax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treebuilders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treebuilders/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treebuilders/dom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treebuilders/etree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treebuilders/etree_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treewalkers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treewalkers/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treewalkers/dom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treewalkers/etree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treewalkers/etree_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treewalkers/genshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/idna/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/idna/codec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/idna/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/idna/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/idna/idnadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/idna/intranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/idna/package_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/idna/uts46data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/ipaddress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/lockfile/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/lockfile/linklockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/lockfile/mkdirlockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/lockfile/pidlockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/lockfile/sqlitelockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/lockfile/symlinklockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/msgpack/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/msgpack/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/msgpack/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/msgpack/fallback.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/_structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pep517/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pep517/_in_process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pep517/build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pep517/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pep517/colorlog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pep517/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pep517/envbuild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pep517/wrappers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pkg_resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pkg_resources/py31compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/progress/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/progress/bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/progress/counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/progress/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/progress/spinner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pyparsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pytoml/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pytoml/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pytoml/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pytoml/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pytoml/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pytoml/writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/__version__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/_internal_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/certs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/hooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/sessions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/retrying.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/connectionpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/_appengine_environ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/appengine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/ntlmpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/pyopenssl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/securetransport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/socks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/filepost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/packages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/packages/backports/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/packages/backports/makefile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/packages/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/poolmanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/retry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/ssl_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/timeout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/webencodings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/webencodings/labels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/webencodings/mklabels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/webencodings/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/webencodings/x_user_defined.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip3.7-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip3.7.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/aa.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/test3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WordFrequency.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/信用信息_信用_新建文本文档.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/动态_李大钊_新建文本文档.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/李大钊动态_动态_新建文本文档.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc2txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/doc2txt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/1517/east.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/1517/east.txt" beforeDir="false" afterPath="$PROJECT_DIR$/new/1517/east.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/1517/middle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/new/1517/middle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/1517/northeast.txt" beforeDir="false" afterPath="$PROJECT_DIR$/new/1517/northeast.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/1517/west.txt" beforeDir="false" afterPath="$PROJECT_DIR$/new/1517/west.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stastics.py" beforeDir="false" afterPath="$PROJECT_DIR$/stastics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +1582,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\project\untitled\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1UeHCAecg5epnLF4HpStsFbmQZW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -50,69 +1608,20 @@
       <recent name="D:\project\untitled\venv" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test3">
-    <configuration default="true" type="DjangoTestsConfigurationType">
-      <module name="WordFrequency" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
-      <module name="WordFrequency" />
+  <component name="RunManager" selected="Python.stastics">
+    <configuration name="doc2txt (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
-      <module name="WordFrequency" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="WordFrequency" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doc2txt.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -120,7 +1629,7 @@
       <method v="2" />
     </configuration>
     <configuration name="doc2txt" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="WordFrequency" />
+      <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="C:\Users\63505\.conda\envs\tf\python.exe" />
@@ -139,7 +1648,7 @@
       <method v="2" />
     </configuration>
     <configuration name="stastics" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="WordFrequency" />
+      <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -161,7 +1670,7 @@
       <method v="2" />
     </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="WordFrequency" />
+      <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -179,30 +1688,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="WordFrequency" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\project\untitled\doc2txt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="WordFrequency" />
+      <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -223,79 +1710,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="Python.FlaskServer">
-      <module name="WordFrequency" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="WordFrequency" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="WordFrequency" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <module name="WordFrequency" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.doc2txt" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.test2 (1)" />
       <item itemvalue="Python.test3" />
       <item itemvalue="Python.stastics" />
+      <item itemvalue="Python.doc2txt (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test3" />
         <item itemvalue="Python.stastics" />
+        <item itemvalue="Python.doc2txt (1)" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.test3" />
         <item itemvalue="Python.doc2txt" />
-        <item itemvalue="Python.test2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -334,22 +1762,49 @@
       <workItem from="1578710045776" duration="689000" />
       <workItem from="1579421517384" duration="233000" />
       <workItem from="1582108197405" duration="3810000" />
-      <workItem from="1582185119721" duration="88359000" />
+      <workItem from="1582185119721" duration="100487000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1582373215168</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582373215168</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1582373308622</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582373308622</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="70" key="#Inspections" timestamp="1582274686702">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="70" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1582274686702" />
-    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582251780327">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582385181569">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582251780327" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582385181569" />
+    <state x="648" y="28" key="#xdebugger.evaluate" timestamp="1582382754066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="648" y="28" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1582382754066" />
+    <state x="224" y="6" width="1150" height="782" key="CommitChangelistDialog2" timestamp="1582386322150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="224" y="6" width="1150" height="782" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582386322150" />
     <state x="503" y="176" key="EnvironmentVariablesDialog" timestamp="1575710734820">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -366,42 +1821,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="628" y="303" width="279" height="245" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1582373052991" />
-    <state width="746" height="316" key="GridCell.Tab.0.bottom" timestamp="1582373116792">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1582385981195">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="316" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582373116792" />
-    <state width="746" height="316" key="GridCell.Tab.0.center" timestamp="1582373116792">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582385981195" />
+    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1582385981195">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="316" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582373116792" />
-    <state width="746" height="316" key="GridCell.Tab.0.left" timestamp="1582373116792">
+    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582385981195" />
+    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1582385981194">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="316" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582373116792" />
-    <state width="746" height="316" key="GridCell.Tab.0.right" timestamp="1582373116792">
+    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582385981194" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1582385981195">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="316" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582373116792" />
-    <state width="746" height="316" key="GridCell.Tab.1.bottom" timestamp="1582373116792">
+    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582385981195" />
+    <state width="746" height="257" key="GridCell.Tab.1.bottom" timestamp="1582384604256">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="316" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582373116792" />
-    <state width="746" height="316" key="GridCell.Tab.1.center" timestamp="1582373116792">
+    <state width="746" height="257" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582384604256" />
+    <state width="746" height="257" key="GridCell.Tab.1.center" timestamp="1582384604256">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="316" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582373116792" />
-    <state width="746" height="316" key="GridCell.Tab.1.left" timestamp="1582373116792">
+    <state width="746" height="257" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582384604256" />
+    <state width="746" height="257" key="GridCell.Tab.1.left" timestamp="1582384604256">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="316" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582373116792" />
-    <state width="746" height="316" key="GridCell.Tab.1.right" timestamp="1582373116792">
+    <state width="746" height="257" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582384604256" />
+    <state width="746" height="257" key="GridCell.Tab.1.right" timestamp="1582384604256">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="316" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582373116792" />
-    <state x="305" y="30" key="SettingsEditor" timestamp="1582354576859">
+    <state width="746" height="257" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582384604256" />
+    <state x="305" y="30" key="SettingsEditor" timestamp="1582380366448">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="305" y="30" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582354576859" />
+    <state x="305" y="30" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582380366448" />
+    <state x="361" y="140" key="Vcs.Push.Dialog.v2" timestamp="1582373324798">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="140" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582373324798" />
     <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1582358379744">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -430,8 +1889,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/stastics.py</url>
-          <line>104</line>
-          <option name="timeStamp" value="44" />
+          <line>82</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/stastics.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -443,10 +1907,11 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/untitled$stastics.coverage" NAME="stastics Coverage Results" MODIFIED="1582367061784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$stastics.coverage" NAME="stastics Coverage Results" MODIFIED="1582385981173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$test.coverage" NAME="test Coverage Results" MODIFIED="1582362703237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1582372845606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/untitled$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1582381036393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/untitled$doc2txt.coverage" NAME="doc2txt Coverage Results" MODIFIED="1582251765423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/WordFrequency$doc2txt__1_.coverage" NAME="doc2txt (1) Coverage Results" MODIFIED="1582385156064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1582222933657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/untitled$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1582196915995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
   </component>
